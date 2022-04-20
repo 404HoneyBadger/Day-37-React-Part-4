@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Day-37-React-Part-4/static/css/main.22941023.css",
+    "main.js": "/Day-37-React-Part-4/static/js/main.bc13e26f.js",
+    "index.html": "/Day-37-React-Part-4/index.html",
+    "main.22941023.css.map": "/Day-37-React-Part-4/static/css/main.22941023.css.map",
+    "main.bc13e26f.js.map": "/Day-37-React-Part-4/static/js/main.bc13e26f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22941023.css",
+    "static/js/main.bc13e26f.js"
+  ]
+}
